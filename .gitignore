@@ -4,6 +4,9 @@ lovec.exe
 *.dll
 *.ico
 
+# Distribution builds
+dist/
+
 # Temporary files
 *.tmp
 *.log
