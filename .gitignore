@@ -6,6 +6,7 @@ lovec.exe
 
 # Distribution builds
 dist/
+l2d/
 
 # Temporary files
 *.tmp
